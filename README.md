@@ -80,7 +80,7 @@ bbbp_dict[name]["label"] = label
 
 ### Graph Feature Extraction and Node2Vec Embedding
 
-![Overall structure of model training](model_flow(2).png)
+![Overall structure of model training](model_flow (2).png)
 
 #### Graph Feature Extraction
 
