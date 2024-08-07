@@ -1,7 +1,3 @@
-Here's the LaTeX document converted into Markdown format:
-
----
-
 # Predicting BBBP Using Graph Mining
 
 **Jinho Seo**  
