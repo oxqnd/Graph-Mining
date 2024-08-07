@@ -226,9 +226,7 @@ The following table shows the comparison of model performance based on Accuracy:
 | K Neighbors Classifier | 0.8313 | 0.7837 | 0.9411 | 0.8532 | 0.8947 | 0.4751 | 0.4921 | 0.0060 |
 | Random Forest Classifier | 0.8250 | 0.8310 | 0.9623 | 0.8338 | 0.8933 | 0.4200 | 0.4568 | 0.0850 |
 | Logistic Regression | 0.8233 | 0.7937 | 0.9564 | 0.8353 | 0.8917 | 0.4225 | 0.4545 | 0.0140 |
-| Linear Discriminant Analysis | 0.8224 | 0.7956 | 0.9611 | 0
-
-.8318 | 0.8917 | 0.4111 | 0.4493 | 0.0050 |
+| Linear Discriminant Analysis | 0.8224 | 0.7956 | 0.9611 | 0.8318 | 0.8917 | 0.4111 | 0.4493 | 0.0050 |
 | Gradient Boosting Classifier | 0.8214 | 0.8186 | 0.9398 | 0.8437 | 0.8891 | 0.4378 | 0.4557 | 0.1490 |
 | Ridge Classifier | 0.8206 | 0.7957 | 0.9729 | 0.8234 | 0.8919 | 0.3844 | 0.4380 | 0.0050 |
 | Extra Trees Classifier | 0.8089 | 0.8415 | 0.9658 | 0.8170 | 0.8850 | 0.3406 | 0.3908 | 0.0350 |
