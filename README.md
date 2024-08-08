@@ -1,9 +1,5 @@
 # Predicting BBBP Using Graph Mining
 
-**Jinho Seo**  
-202321973  
-kkinho04@catholic.ac.kr
-
 ## Introduction
 
 ### Background
